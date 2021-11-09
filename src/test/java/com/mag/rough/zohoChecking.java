@@ -25,7 +25,7 @@ public class zohoChecking {
 
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
-		ZohoAppPage zp = lp.doLogin("folor.automation@gmail.com", "Devilhunter69");
+		ZohoAppPage zp = lp.doLogin("focustaylor99@gmail.com","Devilhunter69");
 		CRMDefaultPage crmdp = zp.goToCRM();
 		crmdp.goToAccessZoho();
 		AccountsPage account = Page.menu.goToAccounts();

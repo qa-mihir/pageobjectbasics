@@ -1,15 +1,15 @@
-08/11/2021 19:02:17 devpinoyLogger Config file loaded!!!
-08/11/2021 19:02:17 devpinoyLogger OR file loaded !!!
-08/11/2021 19:02:20 devpinoyLogger Chrome launched !!!
-08/11/2021 19:02:23 devpinoyLogger Navigated to: https://www.zoho.com/index1.html
-08/11/2021 19:02:25 devpinoyLogger Clicking on an Element: loginlink_XPATH
-08/11/2021 19:02:25 devpinoyLogger TYping in an Element: loginid_ID and entered values asfolor.automation@gmail.com
-08/11/2021 19:02:25 devpinoyLogger Clicking on an Element: nextbtn_ID
-08/11/2021 19:02:25 devpinoyLogger TYping in an Element: password_ID and entered values asDevilhunter69
-08/11/2021 19:02:25 devpinoyLogger Clicking on an Element: nextbtn_ID
-08/11/2021 19:02:30 devpinoyLogger Clicking on an element:  CRM
+09/11/2021 09:43:37 devpinoyLogger Config file loaded!!!
+09/11/2021 09:43:37 devpinoyLogger OR file loaded !!!
+09/11/2021 09:43:43 devpinoyLogger Chrome launched !!!
+09/11/2021 09:43:47 devpinoyLogger Navigated to: https://www.zoho.com/index1.html
+09/11/2021 09:43:48 devpinoyLogger Clicking on an Element: loginlink_XPATH
+09/11/2021 09:43:49 devpinoyLogger TYping in an Element: loginid_ID and entered values asfolor.automation@gmail.com
+09/11/2021 09:43:49 devpinoyLogger Clicking on an Element: nextbtn_ID
+09/11/2021 09:43:49 devpinoyLogger TYping in an Element: password_ID and entered values asDevilhunter69
+09/11/2021 09:43:49 devpinoyLogger Clicking on an Element: nextbtn_ID
+09/11/2021 09:43:54 devpinoyLogger Clicking on an element:  CRM
 Convert leads and close sales deals faster.
 TRY NOW
-08/11/2021 19:02:36 devpinoyLogger Clicking on an Element: accezzzoho_XPATH
-08/11/2021 19:02:38 devpinoyLogger Clicking on an Element: createaccount_XPATH
-08/11/2021 19:02:39 devpinoyLogger TYping in an Element: accountname_ID and entered values asshamsur
+09/11/2021 09:43:59 devpinoyLogger Clicking on an Element: accezzzoho_XPATH
+09/11/2021 09:44:00 devpinoyLogger Clicking on an Element: createaccount_XPATH
+09/11/2021 09:44:02 devpinoyLogger TYping in an Element: accountname_ID and entered values asshamsur
